@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "psjtPnnwg/Anx2alHtVHLXD/hAjRh/irzPzF3Tej2E8v69GD1OEfy2AaFAfO5oA7RdcqLhc4qZfZRc5X8G+HNw==",
+  "dgSpecHash": "FRR6b1NbyzpJ1nC5580qio+GhQqgLl2NjN3q7vVyTJlC+f74v7K227nktCrh+wJQaIrmmyVJiiCEP6PLTyHZjg==",
   "success": true,
-  "projectFilePath": "D:\\Others\\VisualStudioProject\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eyesoft\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Eyesoft\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

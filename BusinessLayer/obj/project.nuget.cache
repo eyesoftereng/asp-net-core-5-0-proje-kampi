@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dewf2o+TwqymA898gIRVI065Bu/ERaBhxbhwJxCtS5heJwiGSF3P1KYS2QLuQepaVrDjIltYmHv/YDcBhpGvEQ==",
+  "dgSpecHash": "6s2Dwnrv7ECuiIIXVLMhxiAQnzsA8v9TeY1dh+bUvPqreMYDcsfg6xT2hI/B4vKN8Jm59hbh+Orn7y01dU0HDg==",
   "success": true,
-  "projectFilePath": "D:\\Others\\VisualStudioProject\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eyesoft\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Eyesoft\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

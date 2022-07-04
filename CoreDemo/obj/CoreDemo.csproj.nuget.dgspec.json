@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Others\\VisualStudioProject\\CoreDemo\\CoreDemo.csproj": {}
+    "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreDemo\\CoreDemo.csproj": {}
   },
   "projects": {
-    "D:\\Others\\VisualStudioProject\\BusinessLayer\\BusinessLayer.csproj": {
+    "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Others\\VisualStudioProject\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "D:\\Others\\VisualStudioProject\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\Eyesoft\\.nuget\\packages\\",
-        "outputPath": "D:\\Others\\VisualStudioProject\\BusinessLayer\\obj\\",
+        "outputPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eyesoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Others\\VisualStudioProject\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\Others\\VisualStudioProject\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "D:\\Others\\VisualStudioProject\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "D:\\Others\\VisualStudioProject\\EntityLayer\\EntityLayer.csproj"
+              "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\Others\\VisualStudioProject\\CoreDemo\\CoreDemo.csproj": {
+    "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreDemo\\CoreDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Others\\VisualStudioProject\\CoreDemo\\CoreDemo.csproj",
+        "projectUniqueName": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreDemo\\CoreDemo.csproj",
         "projectName": "CoreDemo",
-        "projectPath": "D:\\Others\\VisualStudioProject\\CoreDemo\\CoreDemo.csproj",
+        "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreDemo\\CoreDemo.csproj",
         "packagesPath": "C:\\Users\\Eyesoft\\.nuget\\packages\\",
-        "outputPath": "D:\\Others\\VisualStudioProject\\CoreDemo\\obj\\",
+        "outputPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eyesoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,14 +89,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Others\\VisualStudioProject\\BusinessLayer\\BusinessLayer.csproj": {
-                "projectPath": "D:\\Others\\VisualStudioProject\\BusinessLayer\\BusinessLayer.csproj"
+              "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\BusinessLayer\\BusinessLayer.csproj"
               },
-              "D:\\Others\\VisualStudioProject\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\Others\\VisualStudioProject\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "D:\\Others\\VisualStudioProject\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "D:\\Others\\VisualStudioProject\\EntityLayer\\EntityLayer.csproj"
+              "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "D:\\Others\\VisualStudioProject\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Others\\VisualStudioProject\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\Others\\VisualStudioProject\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\Eyesoft\\.nuget\\packages\\",
-        "outputPath": "D:\\Others\\VisualStudioProject\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eyesoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -174,8 +174,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Others\\VisualStudioProject\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "D:\\Others\\VisualStudioProject\\EntityLayer\\EntityLayer.csproj"
+              "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -230,14 +230,14 @@
         }
       }
     },
-    "D:\\Others\\VisualStudioProject\\EntityLayer\\EntityLayer.csproj": {
+    "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Others\\VisualStudioProject\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "D:\\Others\\VisualStudioProject\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\Eyesoft\\.nuget\\packages\\",
-        "outputPath": "D:\\Others\\VisualStudioProject\\EntityLayer\\obj\\",
+        "outputPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eyesoft\\AppData\\Roaming\\NuGet\\NuGet.Config",

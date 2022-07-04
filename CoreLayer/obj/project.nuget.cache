@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wyeRurd4WDjtTxdGIG0DWP+D6XdSJWRLFIGe3tOJfwFWVzeEnG15rujSVW/2hmtBvdh6FiBoAludKPJIp7wb8A==",
+  "dgSpecHash": "1b8Gw7hJa+rAuqCUlxV76O/EJUOqRhmJ8hWGKeRSHpMiaaclT7quFK/RBKYCptXd584Kj/Tby0tcTv668NY1Rg==",
   "success": true,
-  "projectFilePath": "D:\\Others\\VisualStudioProject\\CoreLayer\\CoreLayer.csproj",
+  "projectFilePath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\CoreLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

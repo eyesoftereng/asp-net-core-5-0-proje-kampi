@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Others\\VisualStudioProject\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "D:\\Others\\VisualStudioProject\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\Eyesoft\\.nuget\\packages\\",
-      "outputPath": "D:\\Others\\VisualStudioProject\\EntityLayer\\obj\\",
+      "outputPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eyesoft\\AppData\\Roaming\\NuGet\\NuGet.Config",

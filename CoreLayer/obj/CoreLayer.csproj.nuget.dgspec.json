@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Others\\VisualStudioProject\\CoreLayer\\CoreLayer.csproj": {}
+    "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\CoreLayer.csproj": {}
   },
   "projects": {
-    "D:\\Others\\VisualStudioProject\\CoreLayer\\CoreLayer.csproj": {
+    "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Others\\VisualStudioProject\\CoreLayer\\CoreLayer.csproj",
+        "projectUniqueName": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "D:\\Others\\VisualStudioProject\\CoreLayer\\CoreLayer.csproj",
+        "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\CoreLayer.csproj",
         "packagesPath": "C:\\Users\\Eyesoft\\.nuget\\packages\\",
-        "outputPath": "D:\\Others\\VisualStudioProject\\CoreLayer\\obj\\",
+        "outputPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eyesoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
