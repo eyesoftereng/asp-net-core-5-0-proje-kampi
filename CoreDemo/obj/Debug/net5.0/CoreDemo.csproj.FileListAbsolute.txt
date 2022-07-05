@@ -332,3 +332,4 @@ D:\Others\GithubProjects\asp-net-core-5-0-proje-kampi\CoreDemo\obj\Debug\net5.0\
 D:\Others\GithubProjects\asp-net-core-5-0-proje-kampi\CoreDemo\obj\Debug\net5.0\ref\CoreDemo.dll
 D:\Others\GithubProjects\asp-net-core-5-0-proje-kampi\CoreDemo\obj\Debug\net5.0\CoreDemo.pdb
 D:\Others\GithubProjects\asp-net-core-5-0-proje-kampi\CoreDemo\obj\Debug\net5.0\CoreDemo.genruntimeconfig.cache
+D:\Others\GithubProjects\asp-net-core-5-0-proje-kampi\CoreDemo\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
