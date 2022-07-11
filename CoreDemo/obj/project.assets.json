@@ -7301,19 +7301,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Eyesoft\\.nuget\\packages\\": {}
+    "C:\\Users\\gaygu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreDemo\\CoreDemo.csproj",
+      "projectUniqueName": "E:\\ProjectFiles\\VisualStudioProjects\\asp-net-core-5-0-proje-kampi\\CoreDemo\\CoreDemo.csproj",
       "projectName": "CoreDemo",
-      "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreDemo\\CoreDemo.csproj",
-      "packagesPath": "C:\\Users\\Eyesoft\\.nuget\\packages\\",
-      "outputPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreDemo\\obj\\",
+      "projectPath": "E:\\ProjectFiles\\VisualStudioProjects\\asp-net-core-5-0-proje-kampi\\CoreDemo\\CoreDemo.csproj",
+      "packagesPath": "C:\\Users\\gaygu\\.nuget\\packages\\",
+      "outputPath": "E:\\ProjectFiles\\VisualStudioProjects\\asp-net-core-5-0-proje-kampi\\CoreDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Eyesoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gaygu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7327,14 +7327,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\BusinessLayer\\BusinessLayer.csproj"
+            "E:\\ProjectFiles\\VisualStudioProjects\\asp-net-core-5-0-proje-kampi\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "E:\\ProjectFiles\\VisualStudioProjects\\asp-net-core-5-0-proje-kampi\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\DataAccessLayer\\DataAccessLayer.csproj"
+            "E:\\ProjectFiles\\VisualStudioProjects\\asp-net-core-5-0-proje-kampi\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "E:\\ProjectFiles\\VisualStudioProjects\\asp-net-core-5-0-proje-kampi\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj"
+            "E:\\ProjectFiles\\VisualStudioProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "E:\\ProjectFiles\\VisualStudioProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }
@@ -7374,12 +7374,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.13, 5.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -7388,7 +7382,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

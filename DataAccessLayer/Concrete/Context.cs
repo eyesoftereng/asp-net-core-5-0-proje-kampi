@@ -12,7 +12,7 @@ namespace DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=192.168.1.36;database=CoreBlogDb; integrated security=false; User ID=sa; Password=524746Eyesoft;");
+            optionsBuilder.UseSqlServer("server=192.168.1.152;database=CoreBlogDb; integrated security=false; User ID=sa; Password=524746Eyesoft;");
         }
 
         public DbSet<About> Abouts { get; set; }
@@ -21,5 +21,6 @@ namespace DataAccessLayer.Concrete
         public DbSet<Comment> Comments { get; set; }
         public DbSet<Contact> Contacts { get; set; }
         public DbSet<Writer> Writers { get; set; }
+        public DbSet<NewsLetter> NewsLetters { get; set; }
     }
 }
