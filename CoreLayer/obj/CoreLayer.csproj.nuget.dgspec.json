@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\CoreLayer.csproj": {}
+    "E:\\ProjectFiles\\VisualStudioProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\CoreLayer.csproj": {}
   },
   "projects": {
-    "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\CoreLayer.csproj": {
+    "E:\\ProjectFiles\\VisualStudioProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\CoreLayer.csproj",
+        "projectUniqueName": "E:\\ProjectFiles\\VisualStudioProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\CoreLayer.csproj",
-        "packagesPath": "C:\\Users\\Eyesoft\\.nuget\\packages\\",
-        "outputPath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\obj\\",
+        "projectPath": "E:\\ProjectFiles\\VisualStudioProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\CoreLayer.csproj",
+        "packagesPath": "C:\\Users\\gaygu\\.nuget\\packages\\",
+        "outputPath": "E:\\ProjectFiles\\VisualStudioProjects\\asp-net-core-5-0-proje-kampi\\CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Eyesoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gaygu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

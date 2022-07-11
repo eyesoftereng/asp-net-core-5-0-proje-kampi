@@ -22,3 +22,15 @@ D:\Others\GithubProjects\asp-net-core-5-0-proje-kampi\EntityLayer\obj\Debug\net5
 D:\Others\GithubProjects\asp-net-core-5-0-proje-kampi\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
 D:\Others\GithubProjects\asp-net-core-5-0-proje-kampi\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
 D:\Others\GithubProjects\asp-net-core-5-0-proje-kampi\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+E:\ProjectFiles\VisualStudioProjects\asp-net-core-5-0-proje-kampi\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+E:\ProjectFiles\VisualStudioProjects\asp-net-core-5-0-proje-kampi\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+E:\ProjectFiles\VisualStudioProjects\asp-net-core-5-0-proje-kampi\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+E:\ProjectFiles\VisualStudioProjects\asp-net-core-5-0-proje-kampi\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+E:\ProjectFiles\VisualStudioProjects\asp-net-core-5-0-proje-kampi\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+E:\ProjectFiles\VisualStudioProjects\asp-net-core-5-0-proje-kampi\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectFiles\VisualStudioProjects\asp-net-core-5-0-proje-kampi\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+E:\ProjectFiles\VisualStudioProjects\asp-net-core-5-0-proje-kampi\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+E:\ProjectFiles\VisualStudioProjects\asp-net-core-5-0-proje-kampi\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+E:\ProjectFiles\VisualStudioProjects\asp-net-core-5-0-proje-kampi\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+E:\ProjectFiles\VisualStudioProjects\asp-net-core-5-0-proje-kampi\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+E:\ProjectFiles\VisualStudioProjects\asp-net-core-5-0-proje-kampi\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb

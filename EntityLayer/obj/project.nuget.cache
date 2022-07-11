@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kp39Os48/pvRFE5ADpHYbTcMt04L7rt+RfJpOFfum/+7QLY3sum/jTGWW3Iaci1Khd2NivS8Bq1TGoC66fOjug==",
+  "dgSpecHash": "stO0HCtwJX1rgvFAfVMfiW6lio6MhW75rX0K1DM2pFZlOaOa0tUJfWrPFANKGPdjSCuQvY2sgz2EISrfCOyWJg==",
   "success": true,
-  "projectFilePath": "D:\\Others\\GithubProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "E:\\ProjectFiles\\VisualStudioProjects\\asp-net-core-5-0-proje-kampi\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
